@@ -1,19 +1,19 @@
 {
-    "name": "kdaviesnz/spinner ",
+    "name": "kdaviesnz/spinner",
     "type": "component",
-    "description": "spinner ",
+    "description": "spinner",
     "minimum-stability": "dev",
     "keywords": [
         "kdaviesnz",
-        "spinner "
+        "spinner"
     ],
-    "homepage": "https://github.com/kdaviesnz/spinner /",
+    "homepage": "https://github.com/kdaviesnz/spinner/",
     "license": "MIT",
     "authors": [
         {
             "name": ":kdavies",
             "email": "kdaviesnz@gmail.com",
-            "homepage": "https://github.com/kdaviesnz/spinner /",
+            "homepage": "https://github.com/kdaviesnz/spinner/",
             "role": "Developer"
         }
     ],
